@@ -74,7 +74,7 @@ Configura el repositorio para habilitar `GitHub Pages` y que nos muestre la docu
 
 Debería tener una apariencia tal que así:
 
-![Imagen Enunciado](/imagenes/enunciado.png)
+![Imagen Enunciado](imagenes/enunciado.png)
 
 >Recuerda que en la entrega tendrás que entregar también la dirección de la página del repositorio en `github.io`.
 

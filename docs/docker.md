@@ -14,4 +14,4 @@ docker run -d \
 
 vamos a `http://localhost:8085/`
 
-![Imagen Docker](/imagenes/dockers.png)
+![Imagen Docker](imagenes/dockers.png)
