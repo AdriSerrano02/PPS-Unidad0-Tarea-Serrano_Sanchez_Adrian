@@ -11,7 +11,13 @@ site_name: Documentacion Tarea 0 # Define el título que aparecerá en la barra 
 # Define la lista de enlaces y el orden de aparición en el menú de navegación principal.
 nav:
   # El nombre de la sección en el menú: nombre_archivo.md
-  - Home: index.md             # Primer elemento del menú, enlaza con el archivo 'index.md'.
+  
+  - Inicio: index.md
+  - Git: git.md
+  - GitHub Actions: gitActions.md
+  - GitHub Pages: gitPages.md
+  - Docker: docker.md
+  - Conclusiones: conclusiones.md
 
   # Se pueden añadir subsecciones anidando listas:
   # - Referencia: 
