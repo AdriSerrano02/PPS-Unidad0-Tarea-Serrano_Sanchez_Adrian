@@ -20,4 +20,4 @@ El workflow configurado realiza las siguientes acciones:
 2. Verifiqué en la pestaña "Actions" de GitHub que el workflow se ejecutó correctamente
 3. Confirmé que se creó la rama `gh-pages` automáticamente
 
-aqui foto
+![Imagen Workflows](/imagenes/workflow.png)

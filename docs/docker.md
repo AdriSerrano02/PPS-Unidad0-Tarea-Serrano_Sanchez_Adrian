@@ -12,4 +12,6 @@ docker run -d \
   nginx:alpine
 ```
 
-Aqui fotos
+vamos a `http://localhost:8085/`
+
+![Imagen Docker](/imagenes/dockers.png)

@@ -7,7 +7,7 @@
 - Configuré el repositorio como público
 - Inicialicé con un README.md
 
-aqui foto
+![Imagen Repo](/imagenes/crearRepo.png)
 
 ### Paso 2: Clonar el repositorio localmente
 ```bash
@@ -18,7 +18,7 @@ cd PPS-Unidad0-Tarea-Serrano_Sanchez_Adrian
 ### Paso 3: Crear repositorio en GitHub
 Creamos toda la estructura de carpetas y ficheros
 
-aqui foto 
+![Imagen Estructura](/imagenes/Creacionestructa.png)
 
 ### Paso 4: Añadimos al repositorio las actualizaciones
 ```bash
