@@ -1,8 +1,8 @@
 # GitHub Pages
 
-## Configuración
+## Configuración 
 
-### Paso 1: Habilitar GitHub Pages
+### Paso 1: Habilitar GitHub Pages 
 1. Accedí a la configuración del repositorio en GitHub
 2. En la sección "Pages" del menú lateral
 3. En "Source" seleccioné "Deploy from a branch"
@@ -10,7 +10,7 @@
 
 aqui foto
 
-### Paso 2: Verificación
+### Paso 2: Verificación 
 - La URL de la documentación es: https://https://adriserrano02.github.io/PPS-Unidad0-Tarea-Serrano_Sanchez_Adrian/
 - La documentación se actualiza automáticamente después de cada push a main
 

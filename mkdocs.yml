@@ -3,7 +3,7 @@
 # -------------------------------------------------------------
 # CONFIGURACIÓN GENERAL DEL SITIO
 # -------------------------------------------------------------
-site_name: Documentacion Tarea 0 # Define el título que aparecerá en la barra de navegación y en la etiqueta <title> del navegador.
+site_name: PPS-Unidad0-Tarea-Serrano_Sanchez_Adrian # Define el título que aparecerá en la barra de navegación y en la etiqueta <title> del navegador.
 
 # -------------------------------------------------------------
 # ESTRUCTURA DE NAVEGACIÓN (MENÚ)
@@ -12,7 +12,7 @@ site_name: Documentacion Tarea 0 # Define el título que aparecerá en la barra 
 nav:
   # El nombre de la sección en el menú: nombre_archivo.md
   
-  - Inicio: index.md
+  - Home: index.md
   - Git: git.md
   - GitHub Actions: gitActions.md
   - GitHub Pages: gitPages.md

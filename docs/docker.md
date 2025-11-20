@@ -1,6 +1,6 @@
-# Contenedor Docker con NGINX
+# Contenedor Docker con NGINX 
 
-## Creación del contenedor
+## Creación del contenedor 
 
 
 ```bash
