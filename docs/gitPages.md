@@ -8,10 +8,10 @@
 3. En "Source" seleccioné "Deploy from a branch"
 4. Seleccioné la rama `gh-pages` y la carpeta `/ (root)`
 
-![Imagen Git Page](/imagenes/gitpage.png)
+![Imagen GitPage](/imagenes/gitpage.png)
 
 ### Paso 2: Verificación 
-- La URL de la documentación es: [https://https://adriserrano02.github.io/PPS-Unidad0-Tarea-Serrano_Sanchez_Adrian](https://https://adriserrano02.github.io/PPS-Unidad0-Tarea-Serrano_Sanchez_Adrian/)
+- La URL de la documentación es: [https://adriserrano02.github.io/PPS-Unidad0-Tarea-Serrano_Sanchez_Adrian](https://adriserrano02.github.io/PPS-Unidad0-Tarea-Serrano_Sanchez_Adrian/).
 - La documentación se actualiza automáticamente después de cada push a main
 
-![Imagen Git Page 2](/imagenes/gitpage2.png)
+![Imagen GitPage 2](/imagenes/gitpage2.png)
